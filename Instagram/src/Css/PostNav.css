@@ -1,0 +1,29 @@
+.imrankhan {
+  object-fit: cover;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 2px solid rgb(190, 29, 17);
+}
+.imrankhan-container {
+  width: 100%;
+}
+.p1-style {
+  font-size: 19px;
+  margin-left: 40px;
+}
+.p2-style {
+  font-size: 10px;
+}
+/* .imrankhan-username {
+  line-height: normal;
+  vertical-align: middle;
+} */
+.imrankhan-username2 {
+  font-size: 10px;
+}
+/* .username-container {
+  display: flex;
+  flex-direction: column;
+  line-height: 0.5px;
+} */
